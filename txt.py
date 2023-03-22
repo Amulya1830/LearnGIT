@@ -3,4 +3,4 @@ sum=0
 for num in range(0,len(list)):
     sum += list[num]
 
-print("sum of all nums in list  are:",sum)
+print("sum of all THE  nums in list  are:",sum)
